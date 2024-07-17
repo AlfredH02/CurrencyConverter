@@ -5,7 +5,7 @@ import facade.CurrencyConverterFacade;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {cd 
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         CurrencyConverterFacade converterFacade = new CurrencyConverterFacade();
